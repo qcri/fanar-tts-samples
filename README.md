@@ -36,3 +36,18 @@ SAMPLES
 | Finetune | 60s | 300s | 3600s | 7200s |
 |-------|-----|------|-------|-------|
 |  | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-shameer/speaker1-ar_60_F5TTS_Base.wav" type="audio/wav">Your browser does not support the audio element</audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-shameer/speaker1-ar_300_F5TTS_Base.wav" type="audio/wav">Your browser does not support the audio element</audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-shameer/speaker1-ar_3600_F5TTS_Base.wav" type="audio/wav">Your browser does not support the audio element</audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-shameer/speaker1-ar_7200_F5TTS_Base.wav" type="audio/wav">Your browser does not support the audio element</audio> |
+
+
+#
+## AR-F-2 (Arabic Female 2)
+
+| Speaker | Reference | Audio |
+|---------|-----------|-------|
+| AR-F-1 | يَنْشُدُونَ أُغْنِيَّاتِ اَلْجُمْهُورِيَّةِ بِأَصْوَاتٍ يَقْطَعُهَا النَّحِيبُ .  |  <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/person_two.wav" type="audio/wav">Your browser does not support the audio element</audio>  |
+
+### Text
+ذَهَبَ الْوَلَدُ إِلَى الْمَدْرَسَةِ مُبَكِّرًا لِيَتَعَلَّمَ الْعِلْمَ النَّافِعَ. 
+
+| Epoch | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|-------|---|---|---|---|---|---|---|---|---|----|
+| | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-finetune/speaker2_sp2-60-1_F5TTS_Base-1.wav" type="audio/wav"> </audio> |  <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-finetune/speaker2_sp2-60-2_F5TTS_Base-2.wav" type="audio/wav"> </audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-finetune/speaker2_sp2-60-3_F5TTS_Base-3.wav" type="audio/wav"> </audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-finetune/speaker2_sp2-60-4_F5TTS_Base-4.wav" type="audio/wav"> </audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-finetune/speaker2_sp2-60-5_F5TTS_Base-5.wav" type="audio/wav"> </audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-finetune/speaker2_sp2-60-6_F5TTS_Base-6.wav" type="audio/wav"> </audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-finetune/speaker2_sp2-60-7_F5TTS_Base-7.wav" type="audio/wav"> </audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-finetune/speaker2_sp2-60-8_F5TTS_Base-8.wav" type="audio/wav"> </audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-finetune/speaker2_sp2-60-9_F5TTS_Base-9.wav" type="audio/wav"> </audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-finetune/speaker2_sp2-60-10_F5TTS_Base-10.wav" type="audio/wav"> </audio> |
