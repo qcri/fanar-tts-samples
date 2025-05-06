@@ -33,13 +33,15 @@ SAMPLES
 | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-shameer/speaker1-ar_fanar_F5TTS_Base.wav" type="audio/wav">Your browser does not support the audio element</audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-F5TTS_v1_en_ar/speaker1-ar_1650k_F5TTS_v1_en_ar.wav" type="audio/wav">Your browser does not support the audio element</audio> |
 
 
+### Finetune with single speaker data
+
 | Finetune | 60s | 300s | 3600s | 7200s |
 |-------|-----|------|-------|-------|
 |  | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-shameer/speaker1-ar_60_F5TTS_Base.wav" type="audio/wav">Your browser does not support the audio element</audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-shameer/speaker1-ar_300_F5TTS_Base.wav" type="audio/wav">Your browser does not support the audio element</audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-shameer/speaker1-ar_3600_F5TTS_Base.wav" type="audio/wav">Your browser does not support the audio element</audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-shameer/speaker1-ar_7200_F5TTS_Base.wav" type="audio/wav">Your browser does not support the audio element</audio> |
 
 
 #
-## AR-F-2 (Arabic Female 2)
+## AR-M-2 (Arabic Male 2)
 
 | Speaker | Reference | Audio |
 |---------|-----------|-------|
@@ -47,6 +49,8 @@ SAMPLES
 
 ### Text
 ذَهَبَ الْوَلَدُ إِلَى الْمَدْرَسَةِ مُبَكِّرًا لِيَتَعَلَّمَ الْعِلْمَ النَّافِعَ. 
+
+### Finetune with single speaker data
 
 | Epoch | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |-------|---|---|---|---|---|---|---|---|---|----|
