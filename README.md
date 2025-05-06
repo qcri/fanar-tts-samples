@@ -50,6 +50,10 @@ SAMPLES
 ### Text
 ذَهَبَ الْوَلَدُ إِلَى الْمَدْرَسَةِ مُبَكِّرًا لِيَتَعَلَّمَ الْعِلْمَ النَّافِعَ. 
 
+| Fanar | V1 |
+|-------|----|
+| <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-shameer/speaker2-ar_fanar_F5TTS_Base.wav" type="audio/wav">Your browser does not support the audio element</audio> | <audio controls> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-F5TTS_v1_en_ar/speaker2-ar_1650k_F5TTS_v1_en_ar.wav" type="audio/wav">Your browser does not support the audio element</audio> |
+
 ### Finetune with single speaker data
 
 | Epoch | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
