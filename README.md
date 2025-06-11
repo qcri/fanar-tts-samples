@@ -146,7 +146,6 @@ SAMPLES
 
 | Generated Language | Generated Audio | Prompt Language | Prompt Audio |
 |----------------|-----------------|-----------------|--------------|
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-non-dia/Arabic-elevenlabs-rachel-en_non-dia.wav" type="audio/wav"> | English | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/ElevenLabs_rachel_english.wav" type="audio/wav">  |
 | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-non-dia/Arabic-elevenlabs-rachel-ar_non-dia.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/ElevenLabs_rachel_ar.wav" type="audio/wav">  |
 | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-non-dia/Arabic-kareem-ar_non-dia.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/kareem_arabic.wav" type="audio/wav">  |
 | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-non-dia/Arabic-Abeer_non-dia.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/MSA-Abeer-00003.wav" type="audio/wav">  |
