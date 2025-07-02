@@ -584,46 +584,7 @@ SAMPLES
 | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_mappings_min_diversity_100_hours/Arabic-speaker1-ar_tts_mappings_min_diversity_100_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/person_one.wav" type="audio/wav">  |
 
 
-## V1 Model (1k hours non-diacritized)
-### Checkpoint: ckpts/yifan_F5TTS_v1_Base_vocos_custom_tts_diac_mappings_1000_hours/model_300000.pt
-### Vocab: data/tts_diac_mappings_1000_hours_custom/vocab.txt
-
-| Generated Language | Generated Audio | Prompt Language | Prompt Audio |
-|----------------|-----------------|-----------------|--------------|
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-elevenlabs-rachel-ar_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/ElevenLabs_rachel_ar.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-kareem-ar_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/kareem_arabic.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-Abeer_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/MSA-Abeer-00003.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-elmagarmed-ar_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/elmagarmed_short.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-speaker1-ar_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/person_one.wav" type="audio/wav">  |
-
-
-## V1 Model (1k hours diacritized)
-### Checkpoint: ckpts/yifan_F5TTS_v1_Base_vocos_custom_tts_mappings_1000_hours/model_500000.pt
-### Vocab: data/tts_mappings_1000_hours_custom/vocab.txt
-
-| Generated Language | Generated Audio | Prompt Language | Prompt Audio |
-|----------------|-----------------|-----------------|--------------|
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_mappings_1000_hours/Arabic-elevenlabs-rachel-ar_tts_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/ElevenLabs_rachel_ar.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_mappings_1000_hours/Arabic-kareem-ar_tts_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/kareem_arabic.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_mappings_1000_hours/Arabic-Abeer_tts_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/MSA-Abeer-00003.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_mappings_1000_hours/Arabic-elmagarmed-ar_tts_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/elmagarmed_short.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_mappings_1000_hours/Arabic-speaker1-ar_tts_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/person_one.wav" type="audio/wav">  |
-
-
-## V1 Model (tts_diac_mappings_1000_hours)
-### Checkpoint: ckpts/yifan_F5TTS_v1_Base_vocos_custom_tts_diac_mappings_1000_hours/model_400000.pt
-### Vocab: data/tts_diac_mappings_1000_hours_custom/vocab.txt
-
-| Generated Language | Generated Audio | Prompt Language | Prompt Audio |
-|----------------|-----------------|-----------------|--------------|
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-elevenlabs-rachel-ar_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/ElevenLabs_rachel_ar.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-kareem-ar_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/kareem_arabic.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-Abeer_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/MSA-Abeer-00003.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-elmagarmed-ar_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/elmagarmed_short.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-speaker1-ar_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/person_one.wav" type="audio/wav">  |
-
-
-## V1 Model (tts_mappings_min_diversity_tok_100_hours)
+## V1 Model (Diacritized, 100h, new tokenizer)
 ### Checkpoint: ckpts/yifan_F5TTS_v1_Base_vocos_custom_tts_mappings_min_diversity_tok_100_hours/model_200000.pt
 ### Vocab: data/tts_mappings_min_diversity_tok_100_hours_custom/vocab.txt
 
@@ -636,7 +597,21 @@ SAMPLES
 | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_mappings_min_diversity_tok_100_hours/Arabic-speaker1-ar_tts_mappings_min_diversity_tok_100_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/person_one.wav" type="audio/wav">  |
 
 
-## V1 Model (tts_diac_mappings_1000_hours)
+## V1 Model (Non-Diacritized, 100h, new tokenizer)
+### Checkpoint: ckpts/yifan_F5TTS_v1_Base_vocos_custom_tts_diac_mappings_min_diversity_tok_100_hours/model_100000.pt
+### Vocab: data/tts_diac_mappings_min_diversity_tok_100_hours_custom/vocab.txt
+
+| Generated Language | Generated Audio | Prompt Language | Prompt Audio |
+|----------------|-----------------|-----------------|--------------|
+| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_min_diversity_tok_100_hours/Arabic-elevenlabs-rachel-ar_tts_diac_mappings_min_diversity_tok_100_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/ElevenLabs_rachel_ar.wav" type="audio/wav">  |
+| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_min_diversity_tok_100_hours/Arabic-kareem-ar_tts_diac_mappings_min_diversity_tok_100_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/kareem_arabic.wav" type="audio/wav">  |
+| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_min_diversity_tok_100_hours/Arabic-Abeer_tts_diac_mappings_min_diversity_tok_100_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/MSA-Abeer-00003.wav" type="audio/wav">  |
+| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_min_diversity_tok_100_hours/Arabic-elmagarmed-ar_tts_diac_mappings_min_diversity_tok_100_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/elmagarmed_short.wav" type="audio/wav">  |
+| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_min_diversity_tok_100_hours/Arabic-speaker1-ar_tts_diac_mappings_min_diversity_tok_100_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/person_one.wav" type="audio/wav">  |
+
+
+
+## V1 Model (tts_diac_mappings_1000_hours, Diacritized, 1k)
 ### Checkpoint: ckpts/yifan_F5TTS_v1_Base_vocos_custom_tts_diac_mappings_1000_hours/model_450000.pt
 ### Vocab: data/tts_diac_mappings_1000_hours_custom/vocab.txt
 
@@ -649,14 +624,16 @@ SAMPLES
 | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-speaker1-ar_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/person_one.wav" type="audio/wav">  |
 
 
-## V1 Model (tts_diac_mappings_min_diversity_tok_100_hours)
-### Checkpoint: ckpts/yifan_F5TTS_v1_Base_vocos_custom_tts_diac_mappings_min_diversity_tok_100_hours/model_100000.pt
-### Vocab: data/tts_diac_mappings_min_diversity_tok_100_hours_custom/vocab.txt
+
+## V1 Model (1k hours non-diacritized)
+### Checkpoint: ckpts/yifan_F5TTS_v1_Base_vocos_custom_tts_diac_mappings_1000_hours/model_300000.pt
+### Vocab: data/tts_diac_mappings_1000_hours_custom/vocab.txt
 
 | Generated Language | Generated Audio | Prompt Language | Prompt Audio |
 |----------------|-----------------|-----------------|--------------|
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_min_diversity_tok_100_hours/Arabic-elevenlabs-rachel-ar_tts_diac_mappings_min_diversity_tok_100_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/ElevenLabs_rachel_ar.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_min_diversity_tok_100_hours/Arabic-kareem-ar_tts_diac_mappings_min_diversity_tok_100_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/kareem_arabic.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_min_diversity_tok_100_hours/Arabic-Abeer_tts_diac_mappings_min_diversity_tok_100_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/MSA-Abeer-00003.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_min_diversity_tok_100_hours/Arabic-elmagarmed-ar_tts_diac_mappings_min_diversity_tok_100_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/elmagarmed_short.wav" type="audio/wav">  |
-| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_min_diversity_tok_100_hours/Arabic-speaker1-ar_tts_diac_mappings_min_diversity_tok_100_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/person_one.wav" type="audio/wav">  |
+| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-elevenlabs-rachel-ar_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/ElevenLabs_rachel_ar.wav" type="audio/wav">  |
+| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-kareem-ar_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/kareem_arabic.wav" type="audio/wav">  |
+| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-Abeer_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/MSA-Abeer-00003.wav" type="audio/wav">  |
+| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-elmagarmed-ar_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/elmagarmed_short.wav" type="audio/wav">  |
+| Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/samples-tts_diac_mappings_1000_hours/Arabic-speaker1-ar_tts_diac_mappings_1000_hours.wav" type="audio/wav"> | Arabic | <audio controls preload="none"> <source src="https://github.com/qcri/fanar-tts-samples/raw/refs/heads/main/refs/person_one.wav" type="audio/wav">  |
+
