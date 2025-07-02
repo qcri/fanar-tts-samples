@@ -624,7 +624,7 @@ SAMPLES
 
 
 ## V1 Model (tts_mappings_min_diversity_tok_100_hours)
-### Checkpoint: ckpts/yifan_F5TTS_v1_Base_vocos_custom_tts_mappings_min_diversity_tok_100_hours/model_100000.pt
+### Checkpoint: ckpts/yifan_F5TTS_v1_Base_vocos_custom_tts_mappings_min_diversity_tok_100_hours/model_200000.pt
 ### Vocab: data/tts_mappings_min_diversity_tok_100_hours_custom/vocab.txt
 
 | Generated Language | Generated Audio | Prompt Language | Prompt Audio |
